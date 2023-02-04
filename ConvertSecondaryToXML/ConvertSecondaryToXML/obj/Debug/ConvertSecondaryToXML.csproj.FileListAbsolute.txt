@@ -1,0 +1,9 @@
+C:\Santosh\ConvertSecondaryToXML\ConvertSecondaryToXML\bin\Debug\ConvertSecondaryToXML.exe.config
+C:\Santosh\ConvertSecondaryToXML\ConvertSecondaryToXML\bin\Debug\ConvertSecondaryToXML.exe
+C:\Santosh\ConvertSecondaryToXML\ConvertSecondaryToXML\bin\Debug\ConvertSecondaryToXML.pdb
+C:\Santosh\ConvertSecondaryToXML\ConvertSecondaryToXML\bin\Debug\Ude.dll
+C:\Santosh\ConvertSecondaryToXML\ConvertSecondaryToXML\obj\Debug\ConvertSecondaryToXML.csprojAssemblyReference.cache
+C:\Santosh\ConvertSecondaryToXML\ConvertSecondaryToXML\obj\Debug\ConvertSecondaryToXML.csproj.CoreCompileInputs.cache
+C:\Santosh\ConvertSecondaryToXML\ConvertSecondaryToXML\obj\Debug\ConvertSecondaryToXML.csproj.CopyComplete
+C:\Santosh\ConvertSecondaryToXML\ConvertSecondaryToXML\obj\Debug\ConvertSecondaryToXML.exe
+C:\Santosh\ConvertSecondaryToXML\ConvertSecondaryToXML\obj\Debug\ConvertSecondaryToXML.pdb
