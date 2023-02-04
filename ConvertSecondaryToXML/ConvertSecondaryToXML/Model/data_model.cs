@@ -9,6 +9,7 @@ namespace ConvertSecondaryToXML.Model
 {
     public class data_model
     {
+        string testStrData = "";
         string ConnDB = ConfigurationManager.ConnectionStrings["ConnectionString"].ConnectionString;
         public List<federal_register_model> GetAllDataFromDatabase(string year, string month)
         {
